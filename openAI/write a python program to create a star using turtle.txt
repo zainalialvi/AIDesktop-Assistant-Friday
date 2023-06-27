@@ -1,0 +1,12 @@
+openAI response for Prompt: using AI write a python program to create a star using turtle 
+************************
+
+
+import turtle
+size = 100
+t = turtle.Turtle()
+t.pencolor("blue")
+for x in range(5):
+    t.forward(size)
+    t.right(144)
+turtle.done()

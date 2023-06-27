@@ -1,0 +1,5 @@
+openAI response for Prompt: using AI tell me what is 2-2 
+************************
+
+
+Answer: 0

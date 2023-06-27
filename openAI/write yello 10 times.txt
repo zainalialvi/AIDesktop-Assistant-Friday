@@ -1,0 +1,14 @@
+openAI response for Prompt: AI write yello 10 times 
+************************
+
+
+1. Yello 
+2. Yello 
+3. Yello 
+4. Yello 
+5. Yello 
+6. Yello 
+7. Yello 
+8. Yello 
+9. Yello 
+10. Yello

@@ -1,0 +1,5 @@
+openAI response for Prompt: using AI tell me how much states are there in america 
+************************
+
+
+There are fifty states in the United States of America.
